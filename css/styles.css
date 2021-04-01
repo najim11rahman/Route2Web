@@ -71,9 +71,115 @@ h5 {
 }
 
 .responsive {
+  left: 2.27%;
+  top: 10.84%;
   width: 100%;
-  height: auto;
+  height: 100%;
 }
+
+.cloud1{
+  position: absolute;
+  width: 80px;
+  height: 60px;
+  left: 40%;
+  top: 403px;
+
+}
+
+.cloud2{
+  position: absolute;
+  width: 80px;
+  height: 60px;
+  left: 60%;
+  top: 500px;
+}
+
+.cloud3{
+  position: absolute;
+  width: 59.86px;
+  height: 39.03px;
+  left: 15%;
+  top: 500.76px;
+}
+
+.plant{
+  position: absolute;
+  width: 140px;
+  height: 151px;
+  left: 146px;
+  top: 900px;
+}
+
+.girl1{
+  position: absolute;
+  width: 158px;
+  height: 263px;
+  left: 540px;
+  top: 720px;
+}
+
+.girl2{
+  position: absolute;
+  width: 130px;
+  height: 191px;
+  left: 877px;
+  top: 705px;
+}
+
+.boy{
+  position: absolute;
+  width: 191px;
+  height: 299px;
+  left: 1067px;
+  top: 735px;
+}
+
+h2{
+  position: absolute;
+  width: 18.15%;
+  height: 4.8%;
+  left: 6.66%;
+  top: 185%;
+  
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 37px;
+  text-align: center;
+  
+  color: #423E3E;
+  
+
+}
+
+.line{
+  position: absolute;
+  width: 7.61%;
+  height: 0px;
+  left: 28.91%;
+  top: 190%;
+  
+  border: 2px solid #423E3E;
+  transform: rotate(90deg);
+}
+
+h4{
+  position: absolute;
+  width: 33.74%;
+  height: 6.51%;
+  left: 39.67%;
+  top: 185.9%;
+  
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  
+  color: #6C6464;
+}
+
 /* #Navigation
 ================================================== */
 
